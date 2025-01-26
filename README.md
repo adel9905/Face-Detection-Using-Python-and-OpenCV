@@ -56,6 +56,6 @@ Change the minSize parameter in the detectMultiScale method to filter out smalle
 ## Example Output
 
 You will see a real-time webcam feed with blue rectangles around detected faces when the script runs. Below is a snapshot example:
-![My Logo](images/Face Detection.png "screenshot")
+![My photo]([images/Face Detection.png](https://github.com/adel9905/Face-Detection-Using-Python-and-OpenCV/blob/main/Face%20Detection.png) "screenshot")
 
 
