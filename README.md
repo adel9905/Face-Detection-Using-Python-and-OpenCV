@@ -56,4 +56,6 @@ Change the minSize parameter in the detectMultiScale method to filter out smalle
 ## Example Output
 
 When the script is running, you will see a real-time webcam feed with blue rectangles around detected faces. Below is a snapshot example:
+[The face detection](Face Detection.png "face")
+
 
